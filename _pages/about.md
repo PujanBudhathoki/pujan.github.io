@@ -21,7 +21,7 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 **2016-2021**  
 - **Relevant Coursework:** Machine Learning, Software Development, Electronics Circuits, Electrical Circuits
 
----
+
 ## Projects
 
 ### American Sign Language Recognition using Machine Learning
@@ -57,11 +57,11 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 - **Description:** 2D side scrolling game made using C++ and SFML
 - **Technologies Used:** C++, SFML
 
----
+
 ## Publications
 ### Thakur, A., Budhathoki, P., Upreti, S., Shrestha, S., & Shakya, S. (2020). Real time sign language recognition and speech generation. Journal of Innovative Image Processing, 2(2), 65-76.
 
----
+
 
 ## Work Experience
 ### Graduate Teaching Assistant - University of Texas at Arlington
@@ -72,10 +72,10 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 **2021-2023**
 - **Duties:** Embedded Systems software testing and development, Database and Website Management, System Diagnostics testing
 
----
+
 
 
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/pujan-budhathoki-54a957144/) or [Email](pujan.budhathoki2@uta.edu) for any inquiries or collaborations.
