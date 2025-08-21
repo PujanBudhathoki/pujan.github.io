@@ -2,7 +2,7 @@
 title: "Real time sign language recognition and speech generation"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://irojournals.com/iroiip/article/view/2/2/1
 excerpt: ''
 date: 2020
 venue: 'Journal of Innovative Image Processing'
