@@ -25,11 +25,11 @@ author:
   avatar           : "profileimage.png"
   name             : "Pujan Budhathoki"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student, Trustworthy AI/ML"
+  bio              : "PhD Student, Trustworthy AI"
   location         : "Fort Worth"
   employer         : "UT Arlington"
   uri              : # URL
-  email            : "pujanbudhathoki2@uta.edu" 
+  email            : "pujan.budhathoki2@uta.edu" 
 
   # Academic websites
   academia         : # URL
