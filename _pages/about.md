@@ -11,12 +11,6 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 
 
 
-## Current Projects
-
-**Privacy Attacks Levaraging Model Explanations**
- Machine learning systems are inherently vulnerable to privacy attacks, which can extract various aspects of the model, including its training data, model parameters, and sensitive attributes related to the training data. Moreover, model explanations can inadvertently disclose additional information that further aids such attacks. The goal is to assess the extent to which we can recover information from the model by leveraging this additional information [More Information](https://nine-monday-454.notion.site/Privacy-Attacks-Leveraging-Model-Explanations-143bbf0f6a98805ab4f0c7e2bbf86ec2?source=copy_link)
-
-
 ## Education
 
 ### PhD | Unversity of Texas at Arlington
@@ -62,10 +56,6 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 **2018**   
 - **Description:** 2D side scrolling game made using C++ and SFML
 - **Technologies Used:** C++, SFML
-
-
-## Publications
-### Thakur, A., Budhathoki, P., Upreti, S., Shrestha, S., & Shakya, S. (2020). Real time sign language recognition and speech generation. Journal of Innovative Image Processing, 2(2), 65-76.
 
 
 
