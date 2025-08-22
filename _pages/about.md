@@ -13,7 +13,7 @@ I am a PhD student at the University of Texas at Arlington. I specialize on the 
 
 ## Education
 
-### PhD | Unversity of Texas at Arlington
+### PhD | University of Texas at Arlington
 **2023 Fall**  
 - **Relevant Coursework:** Machine Learning, Software Testing, Computer Algorithms
 
